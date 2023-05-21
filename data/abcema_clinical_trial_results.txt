@@ -1,0 +1,8 @@
+Abcema Clinical Trial Results:
+- Overall response rate: 94%
+- Complete response rate: 40%
+- Duration of response: 10.6 months
+- Progression-free survival: 8.6 months
+- Adverse effects: cytokine release syndrome, infections, fatigue, musculoskeletal pain, and hypogammaglobulinemia.
+- Further information on adverse effects can be found on the drug label, which has a black box warning and a Risk Evaluation and Mitigation Strategy (REMS).
+SOURCE: https://www.centerwatch.com/directories/1067-fda-approved-drugs/listing/4697-abcema-idecabtagene-vicleucel
